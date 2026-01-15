@@ -1,0 +1,35 @@
+---
+title: "Reflection on the use of GenAI"
+---
+
+**Quick Links:**
+
+- [What is the GenAI tool you have used? Why did you choose it?](#tool-choice)
+- [How did the GenAI tool help you in completing the assessment (with examples)?](#tool-help)
+- [What do you think are beneficial about the tool?](#benefits)
+- [What do you think are challenging about the tool?](#challenges)
+- [How do you think will GenAI tools assist you for your future study or work?](#future-use)
+
+
+
+## What is the GenAI tool you have used? Why did you choose it? {#tool-choice}
+
+I used ChatGPT to help structure my sentences and organise written content. Based on my experience, ChatGPT is effective at improving clarity, coherence, and overall flow of explanations, which was particularly useful when describing technical and financial concepts.
+
+In addition, I used Claude to clean up and refine my Quarto code. Claude was chosen because it is more proficient at understanding and formatting code, especially for markup-based documents, helping to improve code readability and correctness.
+
+## How did the GenAI tool help you in completing the assessment (with examples)? {#tool-help}
+
+Claude helped correct and refine Quarto code, particularly when formatting images and structuring page content with hyperlinks. This made it easier to present the website clearly and consistently.
+
+## What do you think are beneficial about the tool? {#benefits}
+
+ChatGPT was useful for improving sentence structure and organising written explanations, while Claude was effective in correcting and refining code within the Quarto document. Together, they improved both content quality and technical accuracy.
+
+## What do you think are challenging about the tool? {#challenges}
+
+One challenge was that the tools sometimes generated more content than necessary, requiring manual filtering to keep the work concise and relevant.
+
+## How do you think will GenAI tools assist you for your future study or work? {#future-use}
+
+GenAI tools can improve productivity by automating tasks such as grammar checking, content structuring, and debugging code, allowing more time to focus on analysis and problem-solving.

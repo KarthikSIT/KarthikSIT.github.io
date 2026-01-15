@@ -3,14 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "tempp_website"
+  title: "Karthik's website"
   favicon: favicon.png
   navbar:
     logo: logo.png
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: About me
+      - href: drinkUp.qmd
+        text: DrinkUp 
+      - href: dataVisualization.qmd
+        text: Data Visualization
+      - href: reflection.qmd
+        text: Reflection
 
 format:
   html:
@@ -21,6 +26,7 @@ format:
     toc: true
     toc-depth: 3
     toc-location: left
+    
 
 
 

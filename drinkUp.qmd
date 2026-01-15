@@ -1,0 +1,32 @@
+---
+title: "Drink Up Application"
+---
+![Android Logo](android_logo.png){width=150px}
+![Drinking Water Animation](drinking_water.gif){width=150px}
+
+**Quick Links:**
+
+-   [About Drink Up](#about-drink-up)
+-   [Tech Stack](#tech-stack)
+
+------------------------------------------------------------------------
+
+## About Drink Up {#about-drink-up}
+
+Drink up is a standalone Android Application, which prompts the users to drink up through an interactive game to fulfill their individual water consumption goals for the day based on their activity levels and age.
+
+------------------------------------------------------------------------
+
+## Tech Stack {#tech-stack}
+
+**Frontend Development:**
+
+- Android Studio for interface development
+
+**Backend Development:**
+
+- PHP
+
+**Database:**
+
+- MySQL

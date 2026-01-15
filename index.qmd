@@ -1,11 +1,178 @@
 ---
-title: "tempp_website"
+title: "Kannan Karthikeyan"
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
-This is a Quarto website.
+![](profile.jpeg){.profile-photo}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Fintech Undergraduate at Singapore Institute of Technology | Passionate
+in Financial Technology, Web 3.0 & Blockchain
 
-```{r}
-1 + 1
-```
+⸻
+
+**Key Skills & Interests:**
+
+• Python, Java, HTML/CSS/JavaScript
+
+• Object-Oriented Programming (OOP)
+
+• Web Development
+
+• Financial Technology & Digital Payments
+
+• Agentic Workflows
+
+• Web 3.0 and Blockchain Technologies
+
+⸻
+
+**Quick Links:**
+
+-   [Summary](#summary)
+-   [Education](#education)
+-   [Work Experience](#work-experience)
+
+------------------------------------------------------------------------
+
+## Summary {#summary}
+
+As an undergraduate in Fintech and Applied Computing at Singapore
+Institute of Technology, I am passionate about leveraging technology to
+create meaningful financial solutions.
+
+I am driven by a strong interest in software development, digital transformation, and the evolving
+Fintech landscape.
+
+Additionally, I have sharpened my critical thinking and design
+innovation skills through interdisciplinary modules focused on
+communication and creativity.
+
+I am also currently exploring the capabilities of prompt engineering in
+digital transformation projects specifically using AI to automate tasks
+and streamline workflows that improvises employee productivity at UOB
+
+------------------------------------------------------------------------
+
+## Education {#education}
+
+**Singapore Institute of Technology**
+
+Bachelor of Applied Computing with Specialization in Fintech (Hons)
+
+**Temasek Polytechnic**
+
+Diploma in Computer Engineering
+
+Poly Foundation Programme (PFP) Certification
+
+– Achieved a CGPA of 3.19/4
+
+------------------------------------------------------------------------
+
+## Work Experience {#work-experience}
+
+### United Overseas Bank (UOB)
+
+**May 2025 – Aug 2025**
+
+*Group Technology Operations (GTO) - Internship*
+
+– Developed a comprehensive prompt engineering guidebook (basic to
+advanced levels) for cross-department AI adoption.
+
+– Developed structured prompts for automating business processes with
+applications of prompt engineering frameworks and techniques
+
+– Experimented with agentic workflows to automate processes using
+LangGraph and Autogen with UOB's internal LLM
+
+– Delivered live demonstrations on applications of prompt engineering
+for department specific usecases, and assisted in PPT slides creation
+for UOB's GTO Townhall
+
+### Office Of SITizen Experience
+
+**Jan 2025 – Apr 2025**
+
+*Student Associate*
+
+– Perform administrative tasks such as data entry, data consolidation,
+and market research for the operations of the university
+
+– Assisted walk-in visitors and managed key log systems to ensure secure
+and organized access to facilities.
+
+– Conducted regular facilities checks and reported maintenance needs to
+uphold a safe school environment.
+
+– Provided event and logistics support, including inventory counts and
+procurement coordination.
+
+– Designed videos and posters for student engagement and outreach
+programs
+
+### National Service
+
+**Jun 2023 – Jun 2024**
+
+*Naval Diving Unit (NDU) - Asset Operator*
+
+– Performing Compliant Ship boarding operations to ensure safety and
+security of merchant vessels transiting to Singapore's territorial
+waters
+
+– Conducted Fitness and Ship Boarding trainings for junior operators
+
+– Assisted in the planning and execution of Navy Day
+
+### Skiya Technologies
+
+**Feb 2022 – Jun 2022**
+
+*Contract - Application consultant attached with Avaya LLC*
+
+– Worked with JavaScript frameworks for web application development and
+familiarized with the pre-existing internal system built with JSP
+(Jakarta Server Pages)
+
+– Developed an internal software application to render client
+information from an Excel Spreadsheet to the front-end of a web
+application built with JSX, a Node.js server and a MYSQL database
+
+– Application allowed staffs to effectively filter and track the
+services and service status for over 1000 Avaya clients across the
+globe
+
+– Assisted clients with firmware/server upgrades onsite at data centers
+
+– Acquired technical training in working with Avaya based cloud and
+telecommunication solutions
+
+### Hallmark Physiotherapy
+
+**Mar 2021 – Aug 2021**
+
+*Internship*
+
+– Developed a full-stack web application known as Client Management
+System making use of the latest MERN stack web technology, consisting of
+server side technologies Express JS/ Node JS, to interact with the
+Client Side of the application which makes use of React JS. The database
+introduced is a NOSQL database known as MongoDB
+
+– Client Management System(CMS) enabled staffs of the clinic to
+effectively track patient data, and clinic resources to enhance
+operations across 4 countries
+
+– Gained knowledge in using AWS for deployment using EC2 instance and S3
+Bucket
+
+### Center for Career Excellence
+
+**Apr 2018 – Apr 2021**
+
+*Part-time Telemarketer*
+
+– Engaged with job seekers to arrange for meetings

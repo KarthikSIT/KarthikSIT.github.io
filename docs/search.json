@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "tempp_website",
+    "title": "Kannan Karthikeyan",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Fintech Undergraduate at Singapore Institute of Technology | Passionate in Financial Technology, Web 3.0 & Blockchain\n⸻\nKey Skills & Interests:\n• Python, Java, HTML/CSS/JavaScript\n• Object-Oriented Programming (OOP)\n• Web Development\n• Financial Technology & Digital Payments\n• Agentic Workflows\n• Web 3.0 and Blockchain Technologies\n⸻\nQuick Links:"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,145 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#summary",
+    "href": "index.html#summary",
+    "title": "Kannan Karthikeyan",
+    "section": "Summary",
+    "text": "Summary\nAs an undergraduate in Fintech and Applied Computing at Singapore Institute of Technology, I am passionate about leveraging technology to create meaningful financial solutions.\nI am driven by a strong interest in software development, digital transformation, and the evolving Fintech landscape.\nAdditionally, I have sharpened my critical thinking and design innovation skills through interdisciplinary modules focused on communication and creativity.\nI am also currently exploring the capabilities of prompt engineering in digital transformation projects specifically using AI to automate tasks and streamline workflows that improvises employee productivity at UOB"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Kannan Karthikeyan",
+    "section": "Education",
+    "text": "Education\nSingapore Institute of Technology\nBachelor of Applied Computing with Specialization in Fintech (Hons)\nTemasek Polytechnic\nDiploma in Computer Engineering\nPoly Foundation Programme (PFP) Certification\n– Achieved a CGPA of 3.19/4"
+  },
+  {
+    "objectID": "index.html#work-experience",
+    "href": "index.html#work-experience",
+    "title": "Kannan Karthikeyan",
+    "section": "Work Experience",
+    "text": "Work Experience\n\nUnited Overseas Bank (UOB)\nMay 2025 – Aug 2025\nGroup Technology Operations (GTO) - Internship\n– Developed a comprehensive prompt engineering guidebook (basic to advanced levels) for cross-department AI adoption.\n– Developed structured prompts for automating business processes with applications of prompt engineering frameworks and techniques\n– Experimented with agentic workflows to automate processes using LangGraph and Autogen with UOB’s internal LLM\n– Delivered live demonstrations on applications of prompt engineering for department specific usecases, and assisted in PPT slides creation for UOB’s GTO Townhall\n\n\nOffice Of SITizen Experience\nJan 2025 – Apr 2025\nStudent Associate\n– Perform administrative tasks such as data entry, data consolidation, and market research for the operations of the university\n– Assisted walk-in visitors and managed key log systems to ensure secure and organized access to facilities.\n– Conducted regular facilities checks and reported maintenance needs to uphold a safe school environment.\n– Provided event and logistics support, including inventory counts and procurement coordination.\n– Designed videos and posters for student engagement and outreach programs\n\n\nNational Service\nJun 2023 – Jun 2024\nNaval Diving Unit (NDU) - Asset Operator\n– Performing Compliant Ship boarding operations to ensure safety and security of merchant vessels transiting to Singapore’s territorial waters\n– Conducted Fitness and Ship Boarding trainings for junior operators\n– Assisted in the planning and execution of Navy Day\n\n\nSkiya Technologies\nFeb 2022 – Jun 2022\nContract - Application consultant attached with Avaya LLC\n– Worked with JavaScript frameworks for web application development and familiarized with the pre-existing internal system built with JSP (Jakarta Server Pages)\n– Developed an internal software application to render client information from an Excel Spreadsheet to the front-end of a web application built with JSX, a Node.js server and a MYSQL database\n– Application allowed staffs to effectively filter and track the services and service status for over 1000 Avaya clients across the globe\n– Assisted clients with firmware/server upgrades onsite at data centers\n– Acquired technical training in working with Avaya based cloud and telecommunication solutions\n\n\nHallmark Physiotherapy\nMar 2021 – Aug 2021\nInternship\n– Developed a full-stack web application known as Client Management System making use of the latest MERN stack web technology, consisting of server side technologies Express JS/ Node JS, to interact with the Client Side of the application which makes use of React JS. The database introduced is a NOSQL database known as MongoDB\n– Client Management System(CMS) enabled staffs of the clinic to effectively track patient data, and clinic resources to enhance operations across 4 countries\n– Gained knowledge in using AWS for deployment using EC2 instance and S3 Bucket\n\n\nCenter for Career Excellence\nApr 2018 – Apr 2021\nPart-time Telemarketer\n– Engaged with job seekers to arrange for meetings"
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "Quick Links:"
+  },
+  {
+    "objectID": "reflection.html#tool-choice",
+    "href": "reflection.html#tool-choice",
+    "title": "Reflection on the use of GenAI",
+    "section": "What is the GenAI tool you have used? Why did you choose it?",
+    "text": "What is the GenAI tool you have used? Why did you choose it?\nI used ChatGPT to help structure my sentences and organise written content. Based on my experience, ChatGPT is effective at improving clarity, coherence, and overall flow of explanations, which was particularly useful when describing technical and financial concepts.\nIn addition, I used Claude to clean up and refine my Quarto code. Claude was chosen because it is more proficient at understanding and formatting code, especially for markup-based documents, helping to improve code readability and correctness."
+  },
+  {
+    "objectID": "reflection.html#tool-help",
+    "href": "reflection.html#tool-help",
+    "title": "Reflection on the use of GenAI",
+    "section": "How did the GenAI tool help you in completing the assessment (with examples)?",
+    "text": "How did the GenAI tool help you in completing the assessment (with examples)?\nClaude helped correct and refine Quarto code, particularly when formatting images and structuring page content with hyperlinks. This made it easier to present the website clearly and consistently."
+  },
+  {
+    "objectID": "reflection.html#benefits",
+    "href": "reflection.html#benefits",
+    "title": "Reflection on the use of GenAI",
+    "section": "What do you think are beneficial about the tool?",
+    "text": "What do you think are beneficial about the tool?\nChatGPT was useful for improving sentence structure and organising written explanations, while Claude was effective in correcting and refining code within the Quarto document. Together, they improved both content quality and technical accuracy."
+  },
+  {
+    "objectID": "reflection.html#challenges",
+    "href": "reflection.html#challenges",
+    "title": "Reflection on the use of GenAI",
+    "section": "What do you think are challenging about the tool?",
+    "text": "What do you think are challenging about the tool?\nOne challenge was that the tools sometimes generated more content than necessary, requiring manual filtering to keep the work concise and relevant."
+  },
+  {
+    "objectID": "reflection.html#future-use",
+    "href": "reflection.html#future-use",
+    "title": "Reflection on the use of GenAI",
+    "section": "How do you think will GenAI tools assist you for your future study or work?",
+    "text": "How do you think will GenAI tools assist you for your future study or work?\nGenAI tools can improve productivity by automating tasks such as grammar checking, content structuring, and debugging code, allowing more time to focus on analysis and problem-solving."
+  },
+  {
+    "objectID": "reflection.html#other-thoughts",
+    "href": "reflection.html#other-thoughts",
+    "title": "Reflection on the use of GenAI",
+    "section": "Any other thoughts you would like to share",
+    "text": "Any other thoughts you would like to share\n[Your response here]"
+  },
+  {
+    "objectID": "dataVisualization.html",
+    "href": "dataVisualization.html",
+    "title": "Data Visualization Project",
+    "section": "",
+    "text": "Quick Links:"
+  },
+  {
+    "objectID": "dataVisualization.html#coming-soon",
+    "href": "dataVisualization.html#coming-soon",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "This page will showcase my data visualization projects and interactive dashboards."
+  },
+  {
+    "objectID": "drinkUp.html",
+    "href": "drinkUp.html",
+    "title": "Drink Up Application",
+    "section": "",
+    "text": "Quick Links:"
+  },
+  {
+    "objectID": "drinkUp.html#about-drink-up",
+    "href": "drinkUp.html#about-drink-up",
+    "title": "Drink Up Application",
+    "section": "About Drink Up",
+    "text": "About Drink Up\nDrink up is a standalone Android Application, which prompts the users to drink up through an interactive game to fulfill their individual water consumption goals for the day based on their activity levels and age."
+  },
+  {
+    "objectID": "drinkUp.html#tech-stack",
+    "href": "drinkUp.html#tech-stack",
+    "title": "Drink Up Application",
+    "section": "Tech Stack",
+    "text": "Tech Stack\nFrontend Development:\n\nAndroid Studio for interface development\n\nBackend Development:\n\nPHP\n\nDatabase:\n\nMySQL"
+  },
+  {
+    "objectID": "dataVisualization.html#about-drink-up",
+    "href": "dataVisualization.html#about-drink-up",
+    "title": "Data Visualization Project",
+    "section": "About Drink Up",
+    "text": "About Drink Up\nDrink up is a standalone Android Application, which prompts the users to drink up through an interactive game to fulfill their individual water consumption goals for the day based on their activity levels and age."
+  },
+  {
+    "objectID": "dataVisualization.html#tech-stack",
+    "href": "dataVisualization.html#tech-stack",
+    "title": "Data Visualization Project",
+    "section": "Tech Stack",
+    "text": "Tech Stack\nFrontend Development:\n\nAndroid Studio for interface development\n\nBackend Development:\n\nPHP\n\nDatabase:\n\nMySQL"
+  },
+  {
+    "objectID": "dataVisualization.html#about-the-data",
+    "href": "dataVisualization.html#about-the-data",
+    "title": "Data Visualization Project",
+    "section": "About the Data",
+    "text": "About the Data\nThis dataset is used to evaluate investment decisions for a company as part of a Finance module. The data presents projected financial performance over a five-year period under three different scenarios: Best Case, Base Case, and Worst Case.\nThe projections are designed to help assess the financial viability and risk profile of a proposed project by comparing expected outcomes under varying assumptions. This type of scenario analysis is commonly used in capital budgeting and strategic financial planning."
+  },
+  {
+    "objectID": "dataVisualization.html#what-the-data-represents",
+    "href": "dataVisualization.html#what-the-data-represents",
+    "title": "Data Visualization Project",
+    "section": "What the Data Represents",
+    "text": "What the Data Represents\nThe visualisations illustrate the expected investment returns over five years for a company project under different operational conditions\nEach scenario includes the following financial metrics:\n\nRevenue:\nRepresents the total projected income generated by the project each year.\n\n\nScenario Overview\n\nBest Case:\nAssumes strong revenue growth, efficient cost management, and favourable market conditions, resulting in high cumulative cash flows and strong investment returns.\nBase Case:\nRepresents the most realistic and expected outcome based on moderate growth and stable operating conditions.\nWorst Case:\nReflects adverse conditions such as slower growth or higher costs, leading to lower profitability and increased investment risk.\n\nTogether, these scenarios provide a comprehensive view of potential upside and downside risks, supporting informed investment decision-making."
+  },
+  {
+    "objectID": "dataVisualization.html#data-visulaization-tool",
+    "href": "dataVisualization.html#data-visulaization-tool",
+    "title": "Data Visualization Project",
+    "section": "Data Visulaization Tool",
+    "text": "Data Visulaization Tool\nData Analysis & Visualisation:\n\nExcel Based Charting"
   }
 ]

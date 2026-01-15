@@ -1,0 +1,7 @@
+---
+title: "Data Visualization"
+---
+
+## Coming Soon
+
+This page will showcase my data visualization projects and interactive dashboards.

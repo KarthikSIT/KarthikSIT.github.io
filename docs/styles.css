@@ -16,3 +16,12 @@ h1,h2 {
 h3,h4 {
   font-size: 14pt;
 }
+
+.profile-photo {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin-bottom: 20px;
+}
