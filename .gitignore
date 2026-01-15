@@ -2,7 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
-.DS_store
+.DS_Store
+.KarthikSIT.github.io.Rproj
 
 /.quarto/
 **/*.quarto_ipynb
