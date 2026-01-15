@@ -2,9 +2,9 @@
 title: "Data Visualization Project"
 ---
 
-![Best Case Scenario](Picture 1.jpg){width=240px}
-![Base Case Scenario](Picture 2.jpeg){width=240px}
-![Worst Case Scenario](Picture 3.jpeg){width=240px}
+![Best Case Scenario](images/Picture 1.jpg){width=240px}
+![Base Case Scenario](images/Picture 2.jpeg){width=240px}
+![Worst Case Scenario](images/Picture 3.jpeg){width=240px}
 
 **Quick Links:**
 

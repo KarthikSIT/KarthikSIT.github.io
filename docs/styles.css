@@ -25,3 +25,15 @@ h3,h4 {
   display: block;
   margin-bottom: 20px;
 }
+
+.app-images {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.app-images img {
+  width: 150px;
+  height: auto;
+}

@@ -5,7 +5,7 @@ editor:
     wrap: 72
 ---
 
-![](profile.jpeg){.profile-photo}
+![](images/profile.jpeg){.profile-photo}
 
 Fintech Undergraduate at Singapore Institute of Technology | Passionate
 in Financial Technology, Web 3.0 & Blockchain
